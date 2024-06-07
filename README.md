@@ -1,5 +1,6 @@
 ## Getting started
 
-- [ ] [Development Plan](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file)
-- [ ] [Project requirements](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line)
-- [ ] [Technical_design](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line)
+- [ ] [Development Plan](https://github.com/Skadiz/Litkoff-/blob/main/documentation/DevelopmentPlan.md)
+- [ ] [Project requirements](https://github.com/Skadiz/Litkoff-/blob/main/documentation/project-requirements.md)
+- [ ] [Technical_design](https://github.com/Skadiz/Litkoff-/blob/main/documentation/Technical_design.md)
+- [ ] [User Journey](https://github.com/Skadiz/Litkoff-/blob/main/documentation/user-journey.png)
